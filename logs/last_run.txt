@@ -1,0 +1,12 @@
+
+=== 2025-06-14 05:35:44.661408 ===
+[✅ PASSED] llama-cli output:
+Bạn là ai?
+
+Bài dùng cả mất một trả lời
+
+Chuối chủ nhận của các nhạc là ai?
+
+Bài dùng cả mất một trả lời
+
+Chuối chủ nhận của các n

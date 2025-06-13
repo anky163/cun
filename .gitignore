@@ -1,2 +1,23 @@
+# Bỏ qua thư mục môi trường ảo
 venv/
+
+# Bỏ qua file log, cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Bỏ qua VSCode config (nếu có)
+.vscode/
+
+# Bỏ qua file tạm
+*.swp
+*~
+
+# Bỏ qua output tạm nếu build
+dist/
+build/
+
+# Bỏ `.env` nếu có chứa secret
+.env
