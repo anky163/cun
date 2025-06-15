@@ -1,18 +1,28 @@
-# Byte-compiled / optimized / DLL files
+# Python bytecode và cache
 __pycache__/
-*.py[cod]
-*.class
+*.pyc
+*.pyo
+*.pyd
 
-# Virtual environment
+# Môi trường ảo
 venv/
 env/
+.venv/
 
-# Logs and temp files
+# Thư mục log runtime
 logs/
-*.log
-*.zip
-*.gpg
+
+# File zip build / gpg không cần thiết
+distutils-for-py312.zip
+packages.microsoft.gpg
+
+# File mô tả, tài liệu phụ
 tree.txt
+
+# Thư mục ẩn build / cache nếu có
+build/
+dist/
+*.egg-info/
 
 # OS files
 .DS_Store
