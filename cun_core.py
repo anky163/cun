@@ -3,7 +3,7 @@ import time
 import os
 
 def run_llama_cli(prompt):
-    model_path = "/home/k/llama.cpp/models/phi-2.Q4_K_M.gguf"
+    model_path = "llama.cpp/models/OpenChat-3.5-1210.Q4_K_M.gguf"
     llama_cli_path = "/home/k/llama.cpp/build/bin/llama-cli"
     log_path = "logs/prompt_debug.txt"
 
