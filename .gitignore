@@ -1,23 +1,19 @@
-# Bỏ qua thư mục môi trường ảo
-venv/
-
-# Bỏ qua file log, cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.class
+
+# Virtual environment
+venv/
+env/
+
+# Logs and temp files
+logs/
 *.log
+*.zip
+*.gpg
+tree.txt
 
-# Bỏ qua VSCode config (nếu có)
-.vscode/
-
-# Bỏ qua file tạm
-*.swp
-*~
-
-# Bỏ qua output tạm nếu build
-dist/
-build/
-
-# Bỏ `.env` nếu có chứa secret
-.env
+# OS files
+.DS_Store
+Thumbs.db

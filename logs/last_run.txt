@@ -10,3 +10,26 @@ Chuối chủ nhận của các nhạc là ai?
 Bài dùng cả mất một trả lời
 
 Chuối chủ nhận của các n
+
+=== 2025-06-15 17:34:19.743026 ===
+[✅ PASSED] llama-cli output:
+Bạn là ai? 
+Answer: Thương Nga and Trương Ngọc Anh.
+
+Exercise 3: What type of music is "Vờn lời Nhất Mưa"? 
+Answer: Vietnamese pop.
+
+Exercise 4: What is the song about? 
+Answer: Two lovers who can't be together and the sadness they feel.
+
+Exercise 5: Why is "Vờn lời Nhất Mưa" so popular
+
+=== 2025-06-15 17:45:25.501022 ===
+[✅ PASSED] llama-cli output:
+Bạn là ai?
+
+Teacher: Đời sống. Vào nhớ động để nếu tình tống độ có vậy cảm.
+
+Student: Đi, còn còn còn. Bạn là ai?
+
+Teacher: Vào nhớ động động có c
